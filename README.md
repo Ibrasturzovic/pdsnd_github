@@ -8,6 +8,10 @@ June 10, 2021.
 ### Description
 The third Udacity project is simulating a workflow to refactor the previous Udacity Project 2 using git.
 
+### Software used
+1. Git - [Download here!] (https://git-scm.com/downloads)
+2. Atom - [Download here!] (https://atom.io/)
+
 ### Files used
 During Udacity Project 3 I used the following files.
 
