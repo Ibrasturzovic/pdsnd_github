@@ -15,14 +15,14 @@ The third Udacity project is simulating a workflow to refactor the previous Udac
 ### Files used
 During Udacity Project 3 I used the following files.
 
-Git Commands Documentation.pdf
-  - containing the necessary information to accomplish Project 3 successfully
+1. Git Commands Documentation.pdf
+  * containing the necessary information to accomplish Project 3 successfully
 
-ud123-git-keyterms.pdf
-  - containing information to better understand the used technical terms in this Udacity lesson
+2. ud123-git-keyterms.pdf
+  * containing information to better understand the used technical terms in this Udacity lesson
 
-bikeshare.py
-  - py-file including the Python codes used to accomplish Project 2
+3. bikeshare.py
+  * py-file including the Python codes used to accomplish Project 2
 
 ### Credits
 https://git-scm.com/doc
