@@ -9,11 +9,17 @@ June 10, 2021.
 The third Udacity project is simulating a workflow to refactor the previous Udacity Project 2 using git.
 
 ### Files used
-During Udacity Project 3 I used the following files:
+During Udacity Project 3 I used the following files.
 
 Git Commands Documentation.pdf
+  - containing the necessary information to accomplish Project 3 successfully
+
 ud123-git-keyterms.pdf
+  - containing information to better understand the used technical terms in this Udacity lesson
+
 bikeshare.py
+  - py-file including the Python codes used to accomplish Project 2
+  
 chicago.csv
 new_york_city.csv
 washington.csv
