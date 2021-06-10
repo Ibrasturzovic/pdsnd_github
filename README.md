@@ -19,10 +19,6 @@ ud123-git-keyterms.pdf
 
 bikeshare.py
   - py-file including the Python codes used to accomplish Project 2
-  
-chicago.csv
-new_york_city.csv
-washington.csv
 
 ### Credits
 https://git-scm.com/doc
