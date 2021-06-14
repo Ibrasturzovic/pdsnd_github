@@ -20,7 +20,7 @@ def get_filters():
     while True:
         city = input("Would you like to see data for Chicago, New York City, or Washington?").lower()
         if city not in CITY_DATA:
-            print("The city name you entered is not available. Please choose a correct city name.")
+            print("The city name you entered is invalid. Please choose a correct city name.")
         else:
             break
 
