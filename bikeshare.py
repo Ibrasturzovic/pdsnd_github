@@ -30,7 +30,7 @@ def get_filters():
         month = input("Please choose a month between January and June for which you would like to see the data. If you want to see all months just type 'all'.").lower()
         months = ["january", "february", "march", "april", "may", "june"]
         if month != "all" and month not in months:
-            print("You entered an invalid month value. Please choose a correct month value.")
+            print("Invalid month value. Please choose a correct month value.")
         else:
             break
 
